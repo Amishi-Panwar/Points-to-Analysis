@@ -1,0 +1,6 @@
+T26:main:a1 alias? a5
+T26:main:a1 alias? a2
+T26:main:a1 alias? a8
+T26:main:a5 alias? a9
+T26:main:a3 alias? a6
+T26:main:a6 alias? a7

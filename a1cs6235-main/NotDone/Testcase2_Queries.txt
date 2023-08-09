@@ -1,0 +1,9 @@
+Testcase2:m1:x alias y
+
+Testcase2:m1:x alias z
+
+Testcase2:m1:y alias z
+
+Testcase2:m1:x.a alias y.a
+
+Testcase2:m1:x.a alias z.a
